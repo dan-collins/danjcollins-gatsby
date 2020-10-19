@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Dan Collins",
+  "siteUrl": "https://danjcollins.com/",
+  "description": "Dan Collins is a developer from Upstate NY who is interested in programming and hardware challenges.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Dan Collins",
+    "description": "I am a software developer primarily interested in web technologies. I currently lead a team of technology professionals serving a promotional products company. This team is divided into two areas. One team is responsible for developing internal applications and public facing e-commerce websites. The other team handles the hardware and system maintenance used to power the daily operations of the company."
   }
 }
